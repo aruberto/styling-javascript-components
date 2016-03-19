@@ -1,0 +1,11 @@
+.button {
+  background-color: transparent;
+  padding: 10px;
+  border: 2px solid blue;
+  color: blue;
+}
+
+.button.error {
+  border: 2px solid red;
+  color: red;
+}
