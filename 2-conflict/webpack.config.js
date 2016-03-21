@@ -16,7 +16,7 @@ module.exports = {
       'process.env.NODE_ENV': JSON.stringify('production'),
     }),
     new HtmlWebpackPlugin({
-      title: 'Styling Javascript Components',
+      title: 'Styling React Components',
       template: path.join(__dirname, 'index.html'),
       favicon: path.join(__dirname, '..', 'favicon.ico'),
       inject: 'body',

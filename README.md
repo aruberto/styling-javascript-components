@@ -1,6 +1,6 @@
-# styling-javascript-components
+# styling-react-components
 
-[Styling Javascript Components Tech Talk](http://www.meetup.com/Markham-JavaScript-Meetup/events/228947422) Source Code
+[Styling React Components Tech Talk](http://www.meetup.com/Markham-JavaScript-Meetup/events/228947422) Source Code
 
 
 ## Running examples

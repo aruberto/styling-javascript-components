@@ -1,7 +1,7 @@
 {
-  "name": "styling-javascript-components",
+  "name": "styling-react-components",
   "version": "1.0.0",
-  "description": "Styling Javascript Components Tech Talk",
+  "description": "Styling React Components Tech Talk",
   "scripts": {},
   "repository": {
     "type": "git",
@@ -32,7 +32,7 @@
     "eslint-config-airbnb": "^6.1.0",
     "eslint-plugin-react": "^4.2.3",
     "express": "^4.13.4",
-    "html-webpack-plugin": "^2.10.0",
+    "html-webpack-plugin": "^2.12.0",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.4",
     "redbox-react": "^1.2.2",
