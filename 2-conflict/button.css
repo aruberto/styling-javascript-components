@@ -6,7 +6,7 @@
   color: blue;
 }
 
-.button.error {
+.error {
   border: 2px solid red;
   color: red;
 }
