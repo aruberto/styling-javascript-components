@@ -1,13 +1,7 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
-import cx from 'classnames';
 
-const Button = ({ error, ...restProps }) =>
-  <button {...restProps} className={cx('button', { error })} />;
-
-Button.propTypes = {
-  error: PropTypes.bool,
-};
+import Button from './button';
 
 const App = () => (
   <div>
